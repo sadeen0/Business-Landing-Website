@@ -26,13 +26,11 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 3.5rem;
   font-weight: 700;
-  letter-spacing: -0.02em;
 }
 
 h2 {
   font-size: 2.5rem;
   font-weight: 600;
-  letter-spacing: -0.01em;
 }
 
 h3 {
@@ -66,7 +64,6 @@ p {
   top: 0;
   left: 0;
   right: 0;
-  z-index: 1000;
   background: rgba(0, 0, 0, 0.1);
   backdrop-filter: blur(10px);
 }
@@ -85,7 +82,6 @@ p {
   font-size: 1.6rem;
   font-weight: 700;
   color: #fff;
-  letter-spacing: 1px;
 }
 
 .nav-menu {
@@ -101,7 +97,6 @@ p {
   font-family: 'Poppins', -apple-system, BlinkMacSystemFont, sans-serif;
   font-weight: 500;
   font-size: 1.05rem;
-  letter-spacing: 0.8px;
   text-transform: uppercase;
   position: relative;
 }
